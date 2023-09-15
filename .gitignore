@@ -52,3 +52,6 @@ MANIFEST
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Environments
+VSCode_learning_env
